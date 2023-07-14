@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "firebase": "^10.0.0",
+    "next": "^13.4.9"
+  }
+}
